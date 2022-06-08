@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @coachyboy
 - 👀 Front-End Development (and maybe some back-end if I can get around to it)
-- 🌱 Learning Front-End Development (Angular, React (in that order!)) and some Back-End (.NET Core). SLOW AND STEADY! >:)
+- 🌱 Learning Front-End Development (Angular, React (in that order!)) and some Back-End (.NET). SLOW AND STEADY! >:)
 - 📫 scott.milnes.14@gmail.com
